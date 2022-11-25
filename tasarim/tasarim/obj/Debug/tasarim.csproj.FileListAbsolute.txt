@@ -1,0 +1,11 @@
+C:\Users\basakaleyna\Desktop\Yeni klasör\tasarim\tasarim\bin\Debug\tasarim.exe.config
+C:\Users\basakaleyna\Desktop\Yeni klasör\tasarim\tasarim\bin\Debug\tasarim.exe
+C:\Users\basakaleyna\Desktop\Yeni klasör\tasarim\tasarim\bin\Debug\tasarim.pdb
+C:\Users\basakaleyna\Desktop\Yeni klasör\tasarim\tasarim\obj\Debug\tasarim.csproj.AssemblyReference.cache
+C:\Users\basakaleyna\Desktop\Yeni klasör\tasarim\tasarim\obj\Debug\tasarim.csproj.SuggestedBindingRedirects.cache
+C:\Users\basakaleyna\Desktop\Yeni klasör\tasarim\tasarim\obj\Debug\tasarim.Form1.resources
+C:\Users\basakaleyna\Desktop\Yeni klasör\tasarim\tasarim\obj\Debug\tasarim.Properties.Resources.resources
+C:\Users\basakaleyna\Desktop\Yeni klasör\tasarim\tasarim\obj\Debug\tasarim.csproj.GenerateResource.cache
+C:\Users\basakaleyna\Desktop\Yeni klasör\tasarim\tasarim\obj\Debug\tasarim.csproj.CoreCompileInputs.cache
+C:\Users\basakaleyna\Desktop\Yeni klasör\tasarim\tasarim\obj\Debug\tasarim.exe
+C:\Users\basakaleyna\Desktop\Yeni klasör\tasarim\tasarim\obj\Debug\tasarim.pdb

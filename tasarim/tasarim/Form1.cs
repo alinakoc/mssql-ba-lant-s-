@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.Data;
 using System.Data.SqlClient;
 
+//Anti virüs uygulamasından "dosya antivürüsü" ve uygulama denetimi" ni kapatman gerekiyor bu bağlantıyı yaptıktan sonra yoksa uygulaman çalışmaz
 
 namespace tasarim
 {
